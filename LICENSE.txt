@@ -1,0 +1,19 @@
+Commercial License – Invoice Generator
+
+Copyright (c) 2025 Askoder Tech Solutions
+
+This software is licensed, not sold.
+
+You are granted a non-exclusive, non-transferable license to use this software for personal or commercial use, after purchasing or obtaining it through authorized means.
+
+You may NOT:
+- Redistribute, resell, or sublicense the software
+- Share the software files publicly
+
+You MAY:
+- Modify the code for personal or client projects
+- Use the software commercially on your own websites or for clients
+
+No warranties are provided. Use at your own risk.
+
+For questions or support, contact email:info@askodertechsolutions.com
